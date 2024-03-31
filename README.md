@@ -17,4 +17,4 @@ Snusbase est un searcher de DB ultra puissant qui contient plus de 81% de la pop
 |--------------|------------ |
 | *Made By :*   |        IW deleted     |
 | *User :*      |iwdeleted |
-| *Server :*   | https://discord.gg/toolfr |
+| *Server :*   | https://discord.gg/AD5gSrtGpt |
