@@ -12,12 +12,8 @@ Snusbase est un searcher de DB ultra puissant qui contient plus de 81% de la pop
 
 
 
-                            🪪 Created By
-#
-|*Information:* | *Response:* |
-|--------------|------------ |
-| *Made By :*   |        IW deleted     |
-| *User :*      |iwdeleted. |
-| *Server :*   | https://discord.gg/AD5gSrtGpt |
+## Contact Me
 
-                                                          
+﹒[Discord](https://discord.gg/fQXQZG5hvX)
+﹒[Telegram](https://t.me/IWCommunityDiscord)
+﹒[Shop](https://iwcommunity.sellpass.io/)
